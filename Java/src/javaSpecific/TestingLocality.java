@@ -3,8 +3,8 @@ package javaSpecific;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-// this program show that java performs bad for contiguous allocation
-// and hence can not utilize caching efficiently but c++ can
+// this program to test if java performs bad for contiguous allocation
+// and test whether it can utilize caching efficiently like c++
 
 
 public class TestingLocality {
